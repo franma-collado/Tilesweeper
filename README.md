@@ -1,2 +1,2 @@
-tilesweeper
+Tilesweeper
 ===========
